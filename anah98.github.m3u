@@ -1,0 +1,98 @@
+# Tay1989
+Canales TV
+
+#EXTM3U
+
+#EXTINF:-1,Cine Canal
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10274.m3u8
+
+#EXTINF:-1,CineMax
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10275.m3u8
+
+#EXTINF:-1,Sony 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10273.m3u8
+
+#EXTINF:-1,TNT
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10272.m3u8
+
+#EXTINF:-1,Studio Universal
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10270.m3u8
+
+#EXTINF:-1,Golden
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10277.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/512px-2019_Discovery_logo.svg.png" group-title="General",Discovery Channel
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10302.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/512px-2018_Animal_Planet_logo.svg.png" group-title="General",Animal Planet HD
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10303.m3u8
+
+#EXTINF:-1 tvg-id="History.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/512px-History_Logo.svg.png" group-title="General",History
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10304.m3u8
+
+#EXTINF:-1 tvg-id="FX.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png" group-title="Movies",FX
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10289.m3u8
+
+#EXTINF:-1,NEW KPOP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Compentencias (MX)
+https://spt-sonyonecompetencias-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sonyone Sharktank (MX)
+https://spt-sonyonesharktank-1-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,Sony Comedias (MX)
+https://spt-sonyonecomedias-mx.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,YG TV (EU)
+https://newidco-ygtv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DistritoComedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia.
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10294.m3u8
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/mbmHPnO.png" tvg-name="Guatevisión"  group-title="News",Guatevision
+https://live-c.cf.dmcdn.net/sec2(B30Qd9hvGezT9yhkUduuTCuvxEBDVixWEQ3TxtRQMU-NoSmGsoqAtnXDXfu4HZI3s359EYQcibpNy3MiY1Duc1c7kzLOHDa0TUY-EciVgh0)/dm/3/x8lth64/s/live-2.m3u8
+
+
+#EXTINF:0, tvg-logo="https://i.imgur.com/UtZD3PA.png" tvg-name="TN23"  group-title="News",TN23
+https://alba-gt-chapintv-tn23.stream.mediatiquestream.com/360p.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-gt-chapintv-tn23.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22e8b0fc25-180c-440f-87f3-2dff3c2bf542%22
+
+#EXTINF:-1 tvg-id="APlusGuate.gt" tvg-logo="https://i.imgur.com/BtGK7iZ.png" group-title="General",A+ Guate (720p)
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-logo="https://i.imgur.com/UJhQoUK.png" group-title="News",Azteca Guate (1080p)
+https://ch1-tva.duin.dev/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BBCNewsNorthAmerica.uk" tvg-logo="https://i.imgur.com/REuN9RR.png" group-title="News",BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal3.gt" tvg-logo="https://i.imgur.com/yCykjIp.png" group-title="News",Canal 3
+https://alba-gt-chapintv-c3.stream.mediatiquestream.com/original.m3u8?CMCD=cid%3D%22https%3A%2F%2Falba-gt-chapintv-c3.stream.mediatiquestream.com%2Findex.m3u8%22%2Csid%3D%22d3599cac-febd-46d8-83d9-7cf0518f7709%22
+
+#EXTINF:-1 tvg-id="ClaroSports.mx" tvg-logo="https://i.imgur.com/n0kd17r.png" group-title="Sports",Claro Sports
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d2755e54db000783fd87livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="General",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O78F97d.png" group-title="News",GuateTv (1080p)
+https://cdn.streamhispanatv.net:3352/live/guatvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yVhUkot.png" group-title="News",Televisiete (1080p)
+https://alba-gt-chapintv-c7.stream.mediatiquestream.com/original.m3u8
+
+#EXTINF:-1 tvg-id="NuevoMundoTV.gt" tvg-logo="https://i.imgur.com/j3OGO3V.png" group-title="News",Nuevo Mundo TV
+https://tvlatina.live:1936/8008/8008/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaracolTV.co" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="General",Caracol TV
+https://hls.tdtcolombiana.com/hls/c112.m3u8
+
+#EXTINF:-1 tvg-id="13C.cl" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" group-title="General",13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-id="ClaroSportsChile.cl" tvg-logo="https://i.imgur.com/61tSA6a.png" group-title="Sports",Claro Sports Chile
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320d80a66666000086712d7livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&profilesFromStream=true&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
+
+#EXTINF:-1 tvg-id="JSPORTS1.jp" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="Sports",J SPORTS 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
